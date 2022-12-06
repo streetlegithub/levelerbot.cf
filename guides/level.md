@@ -26,3 +26,6 @@ Level 9 - 810 XP <br>
 Level 10 - 950 XP <br>
 
 Full list is being made.
+
+## Support Server:
+<iframe src="https://discord.com/widget?id=1049464046497304598&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
