@@ -10,3 +10,6 @@ Type /setup in tyour staff only channel to create level roles & get the bot acti
 
 ## Done!
 You shouldn't have to do anymore after this point, just let your members level up and perhaps add rewards for level roles (image perms, special chat, shoutout, etc)
+
+## Support Server:
+<iframe src="https://discord.com/widget?id=1049464046497304598&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
