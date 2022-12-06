@@ -14,15 +14,15 @@ You currently cannot check another users XP or Level currently however it is in 
 
 ## How much do I have to chat to gain a level?
 
-Level 1 - 50 XP
-Level 2 - 110 XP
-Level 3 - 180 XP
-Level 4 - 260 XP
-Level 5 - 350 XP
-Level 6 - 450 XP
-Level 7 - 560 XP 
-Level 8 - 680 XP
-Level 9 - 810 XP
-Level 10 - 950 XP
+Level 1 - 50 XP <br>
+Level 2 - 110 XP <br>
+Level 3 - 180 XP <br>
+Level 4 - 260 XP <br>
+Level 5 - 350 XP <br>
+Level 6 - 450 XP <br>
+Level 7 - 560 XP <br>
+Level 8 - 680 XP <br>
+Level 9 - 810 XP <br>
+Level 10 - 950 XP <br>
 
 Full list is being made.
