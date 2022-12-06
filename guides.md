@@ -1,13 +1,13 @@
 # Guides
 
 ## How to level up
-> [Find out how to level up here](./level)
+> [Find out how to level up here](./guides/level)
 
 ## How to setup the bot
-> [Want to add the bot to your server? Find out how.](./setup)
+> [Want to add the bot to your server? Find out how.](./guides/setup)
 
 ## How to deal with errors
-> [Getting error messages? No problem.](./error)
+> [Getting error messages? No problem.](./guides/error)
 
 ## How to reset the bot
-> [Something gone wrong? You'll be fine.](./reset)
+> [Something gone wrong? You'll be fine.](./guides/reset)
