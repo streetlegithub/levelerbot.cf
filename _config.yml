@@ -1,5 +1,5 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
+title: Leveler Bot
+description: A simple, free leveling bot for discord.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
