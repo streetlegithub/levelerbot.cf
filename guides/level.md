@@ -13,19 +13,7 @@ To check your current Level & XP you can type /xp, /rank or /level.
 You currently cannot check another users XP or Level currently however it is in development.
 
 ## How much do I have to chat to gain a level?
-
-Level 1 - 50 XP <br>
-Level 2 - 110 XP <br>
-Level 3 - 180 XP <br>
-Level 4 - 260 XP <br>
-Level 5 - 350 XP <br>
-Level 6 - 450 XP <br>
-Level 7 - 560 XP <br>
-Level 8 - 680 XP <br>
-Level 9 - 810 XP <br>
-Level 10 - 950 XP <br>
-
-Full list is being made.
+> Level Requirements
 
 ## Support Server:
 <iframe src="https://discord.com/widget?id=1049464046497304598&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
