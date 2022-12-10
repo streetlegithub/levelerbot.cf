@@ -1,4 +1,5 @@
 # Leveling up
+<img src="/images/up.png" alt="Leveler - @streetle is now Level 1!">
 
 ## How to get XP?
 To increase your XP you can chat (1XP per message).
