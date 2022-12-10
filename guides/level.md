@@ -13,7 +13,7 @@ To check your current Level & XP you can type /xp, /rank or /level.
 You currently cannot check another users XP or Level currently however it is in development.
 
 ## How much do I have to chat to gain a level?
-> [Level Requirements](./guides/req)
+> [Level Requirements](./req)
 
 ## Support Server:
 <iframe src="https://discord.com/widget?id=1049464046497304598&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
