@@ -50,3 +50,4 @@ Level 47 - 13160 XP <br>
 Level 48 - 13680 XP <br>
 Level 49 - 14200 XP <br>
 Level 50 - 14730 XP <br>
+<meta name="format-detection" content="telephone=no">
