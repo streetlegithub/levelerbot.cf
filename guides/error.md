@@ -1,4 +1,5 @@
 # Error messages
+<img src="images/error.png" alt="Leveler - ❌ An error occured">
 
 If any error message appears please join the support server and create a private ticket. I will help you as soon as possible.
 
