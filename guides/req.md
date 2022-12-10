@@ -40,7 +40,7 @@ Level 37 - 8510 XP <br>
 Level 38 - 8930 XP <br>
 Level 39 - 9360 XP <br>
 Level 40 - 9800 XP <br>
-<span text-decorations="none" <div>Level 41 - 10250 XP <br>
+<span text-decorations="none">Level 41 - 10250 XP <br>
 Level 42 - 10710 XP <br>
 Level 43 - 11180 XP <br>
 Level 44 - 11660 XP <br>
@@ -49,5 +49,5 @@ Level 46 - 12650 XP <br>
 Level 47 - 13160 XP <br>
 Level 48 - 13680 XP <br>
 Level 49 - 14200 XP <br>
-Level 50 - 14730 XP <br></div></span>
+Level 50 - 14730 XP <br></span>
 <meta name="format-detection" content="telephone=no">
