@@ -2,6 +2,7 @@
 
 ## Slight reset
 If you run the command /reset, then the bot will delete all level roles & XP of the members of your server. They can continue to gain XP afterwards.
+<img src="/images/error.png" alt="/reset">
 
 ## Full reset
 If you wish to completely get rid of the bot, please remove it from your server. If you encounter any extreme bugs, you can do this and still keep your XP.
