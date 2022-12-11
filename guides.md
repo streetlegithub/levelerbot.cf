@@ -11,3 +11,6 @@
 
 ## How to reset the bot
 > [Something gone wrong? You'll be fine.](./guides/reset)
+
+## How to make a leveling up channel
+> [Want to keep track of levels? Thats easily done!](./guides/channel)
