@@ -3,6 +3,4 @@
 ### Guides
 > [Guides](./guides)
 
-<a href="https://top.gg/bot/1049461268102270997">
-  <img src="https://top.gg/api/widget/servers/1049461268102270997.svg">
-</a>
+<a href="">https://bot-hosting.net/?aff=869901410953740349<strong>#### Make your own discord bot for free!</strong></a>
